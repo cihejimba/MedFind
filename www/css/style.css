@@ -1,0 +1,29 @@
+/* Empty. Add your own CSS if you like */
+#Container {
+    width: 1024px;
+    height: 100%;
+    max-width: 100%;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.fixedElement1 {
+    background-color:ActiveBorder;
+    position:fixed;
+    top:0.5px;
+    width:100%;
+    z-index:90;
+    padding-left:10px;
+}
+
+.fixedElement1 {
+    background-color:ActiveBorder;
+    position:fixed;
+    top:0.5px;
+    width:100%;
+    z-index:90;
+    padding-left:10px;
+    padding-right:10px;
+}
